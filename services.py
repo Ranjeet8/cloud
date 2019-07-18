@@ -14,7 +14,7 @@ choice=data.getvalue('get')
 
 if choice == 'saas' :
 	print "<b><i>Software as a Service</i></b>"
-	print "<a href='http://127.0.0.1/cloudr/services.html'>"
+	print "<a href='http://127.0.0.1/cloudr/servicess.html'>"
 	print "<br>"
 	print "<br>"
 	print "<i>Click to get Services<i>"
